@@ -1,0 +1,46 @@
+<html>
+<head>
+	<title>Prezentare</title>
+<link rel="stylesheet" href="style.css">
+<script src="script.js" defer></script>
+</head>
+ 
+<body id="body">
+<button id="button">Alta viata</button>
+<br>
+<a href="cuprins.html"> Cuprins</a>
+ 
+	<h1 id="nume" class="white-text"> nume:Vladu</h1>
+	<h2 id="prenume" class="red text"> prenume: Sergiu</h2>
+	<h3>E-mail: sergiuvladu12@gmail.com </h3>
+	<h4 id="Poza"> Poza: <img width="300" height="300" src="Poza.jpg.jpg">
+	<h5 id="asteptari de la educatie"> asteptari de la educatie: </h5>
+	<h6> Aprofundarea de cunostinte in electronica si inginerie </h6>
+ 
+</body>
+ 
+ 
+ 
+<table>
+<thead>
+	<tr>
+	  <th>discciplina </th>
+	  <th> an </th>
+	  <th> link </th>
+</thead>
+<tbody>
+	<tr>
+	  <td> info </td>
+	  <td> 1 </td>
+	  <td> <a href= "https://e...content-available-to-author-only...j.ro/files/Acasa/Site/FiseDisciplina/EaRo/06.pdf">informatica aplicata </a> </td>
+	</tr>
+</table>
+<p> hobby-uri: </p> 
+<ul>
+<li>Kickboxing, MMA</li>
+<li>Masinile</li>
+<li>Sala</li>
+ 
+ 
+ 
+</html>
